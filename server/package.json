@@ -1,0 +1,8 @@
+{
+    "name": "jsTerm-server",
+    "version": "0.0.1",
+    "description": "Websocket proxy server for jsTerm",
+    "dependencies": {
+        "websocket": "1.x.x"
+    }
+}
